@@ -1,4 +1,4 @@
-package com.dailycodebuffer.OrderService.model;
+package com.dailycodebuffer.Payment.model;
 
 public enum PaymentMode {
     CASH,
